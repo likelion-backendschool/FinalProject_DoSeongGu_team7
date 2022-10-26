@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="392d9451-a0b1-488e-89cc-74eb87285c25" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/1Week_Mission/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/1Week_Mission/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1Week_Mission/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/1Week_Mission/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1Week_Mission/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/1Week_Mission/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1Week_Mission/src/test/java/com/ll/exam/FinalProject/FinalProjectApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/1Week_Mission/src/test/java/com/ll/exam/FinalProject/FinalProjectApplicationTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="392d9451-a0b1-488e-89cc-74eb87285c25" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +31,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/도성구/Desktop/FinalProject",
+    "last_opened_file_path": "C:/Users/도성구/Desktop/FinalProject/1Week_Mission",
     "settings.editor.selected.configurable": "project.propCompiler"
   }
 }]]></component>
